@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\bin\Debug\net10.0\CoursePrerequisiteSystem.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\bin\Debug\net10.0\CoursePrerequisiteSystem.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\bin\Debug\net10.0\CoursePrerequisiteSystem.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\bin\Debug\net10.0\CoursePrerequisiteSystem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\bin\Debug\net10.0\CoursePrerequisiteSystem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\refint\CoursePrerequisiteSystem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\CoursePrerequisiteSystem.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\CoursePrerequisiteSystem\obj\Debug\net10.0\ref\CoursePrerequisiteSystem.dll
