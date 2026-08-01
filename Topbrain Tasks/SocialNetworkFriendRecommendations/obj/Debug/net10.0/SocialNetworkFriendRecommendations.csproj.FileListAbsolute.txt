@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\refint\SocialNetworkFriendRecommendations.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\SocialNetworkFriendRecommendations\obj\Debug\net10.0\ref\SocialNetworkFriendRecommendations.dll
