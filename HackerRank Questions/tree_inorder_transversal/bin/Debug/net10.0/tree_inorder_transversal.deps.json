@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "tree_inorder_transversal/1.0.0": {
+        "runtime": {
+          "tree_inorder_transversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tree_inorder_transversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

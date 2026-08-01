@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\bin\Debug\net10.0\tree_inorder_transversal.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\bin\Debug\net10.0\tree_inorder_transversal.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\bin\Debug\net10.0\tree_inorder_transversal.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\bin\Debug\net10.0\tree_inorder_transversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\bin\Debug\net10.0\tree_inorder_transversal.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\refint\tree_inorder_transversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\tree_inorder_transversal.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_inorder_transversal\obj\Debug\net10.0\ref\tree_inorder_transversal.dll

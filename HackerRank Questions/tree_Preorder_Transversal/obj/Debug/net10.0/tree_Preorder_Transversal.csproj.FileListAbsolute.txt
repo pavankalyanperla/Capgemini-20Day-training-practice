@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\bin\Debug\net10.0\tree_Preorder_Transversal.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\bin\Debug\net10.0\tree_Preorder_Transversal.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\bin\Debug\net10.0\tree_Preorder_Transversal.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\bin\Debug\net10.0\tree_Preorder_Transversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\bin\Debug\net10.0\tree_Preorder_Transversal.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\refint\tree_Preorder_Transversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\tree_Preorder_Transversal.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\tree_Preorder_Transversal\obj\Debug\net10.0\ref\tree_Preorder_Transversal.dll
