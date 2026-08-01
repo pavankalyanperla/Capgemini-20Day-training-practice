@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\bin\Debug\net10.0\2D_Array_DS.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\bin\Debug\net10.0\2D_Array_DS.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\bin\Debug\net10.0\2D_Array_DS.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\bin\Debug\net10.0\2D_Array_DS.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\bin\Debug\net10.0\2D_Array_DS.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\refint\2D_Array_DS.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\2D_Array_DS.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\2D_Array_DS\obj\Debug\net10.0\ref\2D_Array_DS.dll
