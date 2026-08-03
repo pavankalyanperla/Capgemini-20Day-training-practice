@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tree_PostOrderTransversal/1.0.0": {
+        "runtime": {
+          "Tree_PostOrderTransversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tree_PostOrderTransversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

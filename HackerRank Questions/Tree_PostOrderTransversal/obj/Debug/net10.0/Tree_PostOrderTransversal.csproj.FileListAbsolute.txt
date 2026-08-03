@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\bin\Debug\net10.0\Tree_PostOrderTransversal.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\bin\Debug\net10.0\Tree_PostOrderTransversal.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\bin\Debug\net10.0\Tree_PostOrderTransversal.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\bin\Debug\net10.0\Tree_PostOrderTransversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\bin\Debug\net10.0\Tree_PostOrderTransversal.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\refint\Tree_PostOrderTransversal.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\Tree_PostOrderTransversal.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\Tree_PostOrderTransversal\obj\Debug\net10.0\ref\Tree_PostOrderTransversal.dll
