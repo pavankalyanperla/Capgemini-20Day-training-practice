@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tree_PostOrderTransversal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+058c1399999dfb0383be0c3639a09503fac494b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ffd87bad407eff2a3dda27de25ac8b5270f311")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tree_PostOrderTransversal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tree_PostOrderTransversal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
