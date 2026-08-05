@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\bin\Debug\net10.0\EmployeeSearchSystem.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\bin\Debug\net10.0\EmployeeSearchSystem.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\bin\Debug\net10.0\EmployeeSearchSystem.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\bin\Debug\net10.0\EmployeeSearchSystem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\bin\Debug\net10.0\EmployeeSearchSystem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\refint\EmployeeSearchSystem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\EmployeeSearchSystem.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\EmployeeSearchSystem\obj\Debug\net10.0\ref\EmployeeSearchSystem.dll
