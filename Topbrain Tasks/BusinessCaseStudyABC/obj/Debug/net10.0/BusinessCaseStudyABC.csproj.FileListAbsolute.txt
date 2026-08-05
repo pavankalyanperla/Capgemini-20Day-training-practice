@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\bin\Debug\net10.0\BusinessCaseStudyABC.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\bin\Debug\net10.0\BusinessCaseStudyABC.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\bin\Debug\net10.0\BusinessCaseStudyABC.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\bin\Debug\net10.0\BusinessCaseStudyABC.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\bin\Debug\net10.0\BusinessCaseStudyABC.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\refint\BusinessCaseStudyABC.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\BusinessCaseStudyABC.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\BusinessCaseStudyABC\obj\Debug\net10.0\ref\BusinessCaseStudyABC.dll
