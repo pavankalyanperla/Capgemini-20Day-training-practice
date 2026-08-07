@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\bin\Debug\net10.0\FactorialUsingTailRecursion.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\bin\Debug\net10.0\FactorialUsingTailRecursion.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\bin\Debug\net10.0\FactorialUsingTailRecursion.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\bin\Debug\net10.0\FactorialUsingTailRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\bin\Debug\net10.0\FactorialUsingTailRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\refint\FactorialUsingTailRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\FactorialUsingTailRecursion.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\FactorialUsingTailRecursion\obj\Debug\net10.0\ref\FactorialUsingTailRecursion.dll
