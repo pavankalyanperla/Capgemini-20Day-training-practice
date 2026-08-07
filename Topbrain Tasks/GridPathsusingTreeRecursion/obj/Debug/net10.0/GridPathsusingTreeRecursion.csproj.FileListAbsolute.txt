@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\bin\Debug\net10.0\GridPathsusingTreeRecursion.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\bin\Debug\net10.0\GridPathsusingTreeRecursion.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\bin\Debug\net10.0\GridPathsusingTreeRecursion.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\bin\Debug\net10.0\GridPathsusingTreeRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\bin\Debug\net10.0\GridPathsusingTreeRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\refint\GridPathsusingTreeRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\GridPathsusingTreeRecursion.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\GridPathsusingTreeRecursion\obj\Debug\net10.0\ref\GridPathsusingTreeRecursion.dll
