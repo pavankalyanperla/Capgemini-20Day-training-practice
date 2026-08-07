@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\bin\Debug\net10.0\GridlandMetroProblem.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\bin\Debug\net10.0\GridlandMetroProblem.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\bin\Debug\net10.0\GridlandMetroProblem.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\bin\Debug\net10.0\GridlandMetroProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\bin\Debug\net10.0\GridlandMetroProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\refint\GridlandMetroProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\GridlandMetroProblem.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\GridlandMetroProblem\obj\Debug\net10.0\ref\GridlandMetroProblem.dll
