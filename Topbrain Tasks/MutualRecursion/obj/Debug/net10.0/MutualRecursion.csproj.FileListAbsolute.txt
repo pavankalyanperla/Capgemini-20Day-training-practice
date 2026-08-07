@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\bin\Debug\net10.0\MutualRecursion.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\bin\Debug\net10.0\MutualRecursion.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\bin\Debug\net10.0\MutualRecursion.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\bin\Debug\net10.0\MutualRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\bin\Debug\net10.0\MutualRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\refint\MutualRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\MutualRecursion.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\MutualRecursion\obj\Debug\net10.0\ref\MutualRecursion.dll

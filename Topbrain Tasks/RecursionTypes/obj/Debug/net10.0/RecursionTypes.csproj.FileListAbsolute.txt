@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\bin\Debug\net10.0\RecursionTypes.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\bin\Debug\net10.0\RecursionTypes.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\bin\Debug\net10.0\RecursionTypes.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\bin\Debug\net10.0\RecursionTypes.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\bin\Debug\net10.0\RecursionTypes.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\refint\RecursionTypes.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\RecursionTypes.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\RecursionTypes\obj\Debug\net10.0\ref\RecursionTypes.dll
