@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\bin\Debug\net10.0\ReverseDigitsUsingRecursion.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\bin\Debug\net10.0\ReverseDigitsUsingRecursion.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\bin\Debug\net10.0\ReverseDigitsUsingRecursion.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\bin\Debug\net10.0\ReverseDigitsUsingRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\bin\Debug\net10.0\ReverseDigitsUsingRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\refint\ReverseDigitsUsingRecursion.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ReverseDigitsUsingRecursion.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\ReverseDigitsUsingRecursion\obj\Debug\net10.0\ref\ReverseDigitsUsingRecursion.dll
