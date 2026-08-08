@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\bin\Debug\net10.0\IcecreamParlourProblem.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\bin\Debug\net10.0\IcecreamParlourProblem.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\bin\Debug\net10.0\IcecreamParlourProblem.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\bin\Debug\net10.0\IcecreamParlourProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\bin\Debug\net10.0\IcecreamParlourProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\refint\IcecreamParlourProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\IcecreamParlourProblem.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\IcecreamParlourProblem\obj\Debug\net10.0\ref\IcecreamParlourProblem.dll
