@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GridlandMetroProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf43161e25875c3ddf06d83f7c9607efb7f76e2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4fc4b2903dc31de04d92e23aa3d43e0677b77c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GridlandMetroProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GridlandMetroProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

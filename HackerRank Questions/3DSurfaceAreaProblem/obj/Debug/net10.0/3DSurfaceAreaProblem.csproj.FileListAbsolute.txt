@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\bin\Debug\net10.0\3DSurfaceAreaProblem.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\bin\Debug\net10.0\3DSurfaceAreaProblem.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\bin\Debug\net10.0\3DSurfaceAreaProblem.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\bin\Debug\net10.0\3DSurfaceAreaProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\bin\Debug\net10.0\3DSurfaceAreaProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\refint\3DSurfaceAreaProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\3DSurfaceAreaProblem.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\3DSurfaceAreaProblem\obj\Debug\net10.0\ref\3DSurfaceAreaProblem.dll

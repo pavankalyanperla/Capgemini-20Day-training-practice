@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IcecreamParlourProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79095475a0445a8d15b7afd96175d63ef8832202")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4fc4b2903dc31de04d92e23aa3d43e0677b77c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IcecreamParlourProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IcecreamParlourProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
