@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\bin\Debug\net10.0\InsertANodeAtHeadOfLinkedList.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\bin\Debug\net10.0\InsertANodeAtHeadOfLinkedList.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\bin\Debug\net10.0\InsertANodeAtHeadOfLinkedList.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\bin\Debug\net10.0\InsertANodeAtHeadOfLinkedList.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\bin\Debug\net10.0\InsertANodeAtHeadOfLinkedList.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\refint\InsertANodeAtHeadOfLinkedList.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\InsertANodeAtHeadOfLinkedList.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtHeadOfLinkedList\obj\Debug\net10.0\ref\InsertANodeAtHeadOfLinkedList.dll

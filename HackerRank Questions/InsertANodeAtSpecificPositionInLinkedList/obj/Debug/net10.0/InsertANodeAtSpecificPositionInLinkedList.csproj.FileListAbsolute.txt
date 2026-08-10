@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\bin\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\bin\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\bin\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\bin\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\bin\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\refint\InsertANodeAtSpecificPositionInLinkedList.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\InsertANodeAtSpecificPositionInLinkedList.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\HackerRank Questions\InsertANodeAtSpecificPositionInLinkedList\obj\Debug\net10.0\ref\InsertANodeAtSpecificPositionInLinkedList.dll
