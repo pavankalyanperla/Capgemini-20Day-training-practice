@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\bin\Debug\net10.0\LAB3_StringManipulationToolkit.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\bin\Debug\net10.0\LAB3_StringManipulationToolkit.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\bin\Debug\net10.0\LAB3_StringManipulationToolkit.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\bin\Debug\net10.0\LAB3_StringManipulationToolkit.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\bin\Debug\net10.0\LAB3_StringManipulationToolkit.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\refint\LAB3_StringManipulationToolkit.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\LAB3_StringManipulationToolkit.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_StringManipulationToolkit\obj\Debug\net10.0\ref\LAB3_StringManipulationToolkit.dll

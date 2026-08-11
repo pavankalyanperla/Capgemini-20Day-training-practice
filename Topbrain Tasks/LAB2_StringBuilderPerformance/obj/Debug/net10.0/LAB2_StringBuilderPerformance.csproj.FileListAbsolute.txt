@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\bin\Debug\net10.0\LAB2_StringBuilderPerformance.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\bin\Debug\net10.0\LAB2_StringBuilderPerformance.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\bin\Debug\net10.0\LAB2_StringBuilderPerformance.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\bin\Debug\net10.0\LAB2_StringBuilderPerformance.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\bin\Debug\net10.0\LAB2_StringBuilderPerformance.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\refint\LAB2_StringBuilderPerformance.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\LAB2_StringBuilderPerformance.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_StringBuilderPerformance\obj\Debug\net10.0\ref\LAB2_StringBuilderPerformance.dll

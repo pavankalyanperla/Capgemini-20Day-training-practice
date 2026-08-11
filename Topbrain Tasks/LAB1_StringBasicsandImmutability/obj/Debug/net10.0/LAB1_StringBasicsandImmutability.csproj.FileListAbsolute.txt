@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\bin\Debug\net10.0\LAB1_StringBasicsandImmutability.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\bin\Debug\net10.0\LAB1_StringBasicsandImmutability.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\bin\Debug\net10.0\LAB1_StringBasicsandImmutability.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\bin\Debug\net10.0\LAB1_StringBasicsandImmutability.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\bin\Debug\net10.0\LAB1_StringBasicsandImmutability.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\refint\LAB1_StringBasicsandImmutability.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\LAB1_StringBasicsandImmutability.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StringBasicsandImmutability\obj\Debug\net10.0\ref\LAB1_StringBasicsandImmutability.dll
