@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\bin\Debug\net10.0\LAB2_VariablesAndModifiers.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\bin\Debug\net10.0\LAB2_VariablesAndModifiers.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\bin\Debug\net10.0\LAB2_VariablesAndModifiers.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\bin\Debug\net10.0\LAB2_VariablesAndModifiers.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\bin\Debug\net10.0\LAB2_VariablesAndModifiers.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\refint\LAB2_VariablesAndModifiers.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\LAB2_VariablesAndModifiers.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB2_VariablesAndModifiers\obj\Debug\net10.0\ref\LAB2_VariablesAndModifiers.dll

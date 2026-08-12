@@ -1,0 +1,7 @@
+[2026-08-12 11:41:43] INFO: Application started
+[2026-08-12 11:41:43] INFO: User logged in
+[2026-08-12 11:41:43] WARNING: Memory usage is high
+[2026-08-12 11:41:43] ERROR: Database connection failed | Exception: SqlException: Connection timeout
+[2026-08-12 11:41:43] INFO: Retrying database connection
+[2026-08-12 11:41:43] ERROR: File could not be processed | Exception: FileNotFoundException
+[2026-08-12 11:41:43] INFO: Application processing completed

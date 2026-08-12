@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\bin\Debug\net10.0\LAB3_ConstructorDesign.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\bin\Debug\net10.0\LAB3_ConstructorDesign.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\bin\Debug\net10.0\LAB3_ConstructorDesign.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\bin\Debug\net10.0\LAB3_ConstructorDesign.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\bin\Debug\net10.0\LAB3_ConstructorDesign.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\refint\LAB3_ConstructorDesign.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\LAB3_ConstructorDesign.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB3_ConstructorDesign\obj\Debug\net10.0\ref\LAB3_ConstructorDesign.dll

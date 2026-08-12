@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\bin\Debug\net10.0\LAB6_ShapeHierarchy.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\bin\Debug\net10.0\LAB6_ShapeHierarchy.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\bin\Debug\net10.0\LAB6_ShapeHierarchy.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\bin\Debug\net10.0\LAB6_ShapeHierarchy.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\bin\Debug\net10.0\LAB6_ShapeHierarchy.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\refint\LAB6_ShapeHierarchy.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\LAB6_ShapeHierarchy.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB6_ShapeHierarchy\obj\Debug\net10.0\ref\LAB6_ShapeHierarchy.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LAB4_AbstractInheritanceAndPolyMorphism/1.0.0": {
+        "runtime": {
+          "LAB4_AbstractInheritanceAndPolyMorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB4_AbstractInheritanceAndPolyMorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

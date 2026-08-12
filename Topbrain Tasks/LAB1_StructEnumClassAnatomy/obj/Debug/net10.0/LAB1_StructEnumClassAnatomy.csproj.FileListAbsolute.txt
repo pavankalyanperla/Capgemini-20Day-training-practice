@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\bin\Debug\net10.0\LAB1_StructEnumClassAnatomy.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\bin\Debug\net10.0\LAB1_StructEnumClassAnatomy.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\bin\Debug\net10.0\LAB1_StructEnumClassAnatomy.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\bin\Debug\net10.0\LAB1_StructEnumClassAnatomy.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\bin\Debug\net10.0\LAB1_StructEnumClassAnatomy.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\refint\LAB1_StructEnumClassAnatomy.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\LAB1_StructEnumClassAnatomy.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\LAB1_StructEnumClassAnatomy\obj\Debug\net10.0\ref\LAB1_StructEnumClassAnatomy.dll
