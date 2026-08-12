@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertANodeAtTailOfLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47c0a559dda01e90dd255d8928ea7a923c7dd708")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be9df9901ee0407746a263a0c5b743411f4dd150")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertANodeAtTailOfLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertANodeAtTailOfLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

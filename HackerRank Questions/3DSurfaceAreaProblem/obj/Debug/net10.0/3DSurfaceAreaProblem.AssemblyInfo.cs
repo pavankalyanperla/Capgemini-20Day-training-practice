@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3DSurfaceAreaProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4fc4b2903dc31de04d92e23aa3d43e0677b77c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be9df9901ee0407746a263a0c5b743411f4dd150")]
 [assembly: System.Reflection.AssemblyProductAttribute("3DSurfaceAreaProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3DSurfaceAreaProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
