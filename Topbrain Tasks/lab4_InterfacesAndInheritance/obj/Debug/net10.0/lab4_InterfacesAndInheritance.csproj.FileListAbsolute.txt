@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\bin\Debug\net10.0\lab4_InterfacesAndInheritance.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\bin\Debug\net10.0\lab4_InterfacesAndInheritance.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\bin\Debug\net10.0\lab4_InterfacesAndInheritance.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\bin\Debug\net10.0\lab4_InterfacesAndInheritance.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\bin\Debug\net10.0\lab4_InterfacesAndInheritance.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\refint\lab4_InterfacesAndInheritance.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\lab4_InterfacesAndInheritance.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab4_InterfacesAndInheritance\obj\Debug\net10.0\ref\lab4_InterfacesAndInheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\bin\Debug\net10.0\lab1_EncapsulationProblem.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\bin\Debug\net10.0\lab1_EncapsulationProblem.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\bin\Debug\net10.0\lab1_EncapsulationProblem.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\bin\Debug\net10.0\lab1_EncapsulationProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\bin\Debug\net10.0\lab1_EncapsulationProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\refint\lab1_EncapsulationProblem.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\lab1_EncapsulationProblem.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab1_EncapsulationProblem\obj\Debug\net10.0\ref\lab1_EncapsulationProblem.dll

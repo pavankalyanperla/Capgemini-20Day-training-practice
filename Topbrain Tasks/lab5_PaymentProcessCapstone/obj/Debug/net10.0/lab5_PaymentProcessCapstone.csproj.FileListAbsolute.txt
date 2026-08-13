@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\bin\Debug\net10.0\lab5_PaymentProcessCapstone.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\bin\Debug\net10.0\lab5_PaymentProcessCapstone.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\bin\Debug\net10.0\lab5_PaymentProcessCapstone.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\bin\Debug\net10.0\lab5_PaymentProcessCapstone.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\bin\Debug\net10.0\lab5_PaymentProcessCapstone.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\refint\lab5_PaymentProcessCapstone.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\lab5_PaymentProcessCapstone.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab5_PaymentProcessCapstone\obj\Debug\net10.0\ref\lab5_PaymentProcessCapstone.dll

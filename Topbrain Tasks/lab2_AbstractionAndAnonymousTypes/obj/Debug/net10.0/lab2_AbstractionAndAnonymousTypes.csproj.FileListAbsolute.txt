@@ -1,0 +1,15 @@
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\bin\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.exe
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\bin\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.deps.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\bin\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.runtimeconfig.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\bin\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\bin\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.AssemblyInfo.cs
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.sourcelink.json
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\refint\lab2_AbstractionAndAnonymousTypes.dll
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.pdb
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\lab2_AbstractionAndAnonymousTypes.genruntimeconfig.cache
+C:\Users\Pavan\OneDrive\Desktop\Capgemini 20 Day training\Topbrain Tasks\lab2_AbstractionAndAnonymousTypes\obj\Debug\net10.0\ref\lab2_AbstractionAndAnonymousTypes.dll
